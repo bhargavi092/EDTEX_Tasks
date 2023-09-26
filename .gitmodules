@@ -1,0 +1,9 @@
+[submodule "Task3_LMS-Angular"]
+	path = Task3_LMS-Angular
+	url = https://github.com/bhargavi092/Library_Management_System.git
+[submodule "Task4_LTSBackend"]
+	path = Task4_LTSBackend
+	url = https://github.com/bhargavi092/lts.git
+[submodule "Task4_LTS"]
+	path = Task4_LTS
+	url = https://github.com/bhargavi092/LeaveTrackingSystem.git
